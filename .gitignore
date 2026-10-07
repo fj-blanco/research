@@ -1,0 +1,15 @@
+*.aux
+*.log
+*.out
+*.blg
+*.bbl
+*.zip
+*.pdf
+!**/figures/*.pdf
+*.pyc
+*.csv
+*.npz
+metadata.json
+validation.json
+__pycache__/
+.pytest_cache/
